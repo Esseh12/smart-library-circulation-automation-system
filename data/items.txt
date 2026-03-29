@@ -1,0 +1,2 @@
+B1000|Run Away|Harlan Coben|1996|true|1|Book|1807-7894|Fiction|null|null
+B1001|Art of war|Robert Greene|2006|false|1|Book|1906-3452|Motivation|U101|2026-04-12
